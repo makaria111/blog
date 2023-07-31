@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body{
+    background-color: #FCDB58;
+ }
+
+ .navbar img{
+    width: 15vw;
+    margin-top: 1%;
+   
+}
+.navbar button{
+    background: none;
+    background-color: #8C52FF;
+    border: #8C52FF;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 12vw;
+    justify-content: space-between;
+    
+}
+.navbar {
+   
+    margin-left: 55%;
+}
+
+section{
+    display: flex;
+}
+.infograficos img{
+    width: 50vw;
+    margin-top: 1%;
+}
+.plagio img{
+    width: 20vw;
+    margin-top: 70%;
+    margin-left: 143%;
+}
